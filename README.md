@@ -1,4 +1,7 @@
-# restaurant-css-framework
+## restaurant-css-framework
+#https://schoenaerskevin.github.io/restaurant-css-framework/.
+
+
 image background:https://www.publicdomainpictures.net/fr/view-image.php?image=208340&picture=brown-irregulier-texture-background
 
 logo resto : piment barré : https://flyclipart.com/download-png#not-spicy-food-burn-icon-with-png-and-vector-format-for-free-344548.png
@@ -28,6 +31,7 @@ boisson4 : https://www.publicdomainpictures.net/fr/view-image.php?image=1972&pic
 food 4: https://www.publicdomainpictures.net/fr/view-image.php?image=153354&picture=hamburger-royal
 
 restau 3 https://www.publicdomainpictures.net/fr/view-image.php?image=21492&picture=coucher-de-soleil-dans-le-port
+<<<<<<< HEAD
 
 event: https://www.publicdomainpictures.net/fr/view-image.php?image=292857&picture=marque-de-calendrier
 
@@ -39,3 +43,5 @@ franchise:https://fr.vecteezy.com/art-vectoriel/464549-icone-de-main-et-de-magas
     note licence gratuite mais impossibilité d'aller voir la section pour plus de détail
 
 up : https://www.iconfinder.com/icons/186407/arrow_up_icon
+=======
+>>>>>>> f82a9eec9a0536b9b3cceeb8a86096c23ab0c6c2

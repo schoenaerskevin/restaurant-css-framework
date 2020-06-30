@@ -24,62 +24,37 @@
         </header>
 
     
+    <!--diapo-->
 
-    <!--gallery-->
-    
-<section class="photo">
-    <div class="container-fluid">
-        <div class="row">
 
-            <div class="col-4">
-                <a href ="picture.html" alt="lien vers image2">Photo exterieur</a>
-            </div>
+            <section class="diapo">
+                <div class="d1"></div>
+                    <div class="contenaire">
+                        <div class=d2></div>
+                    </div>
+            </section>
 
-            <div class="col-4">
-                    <a href ="pictures2.html" alt="lien vers image2">plat</a>
-            </div>
+    <!-- formulaire de contact-->
 
-            <div class="col-4">
-                <a href ="picture3.html" alt="lien vers image2">Boissons</a>
-            </div>
-
+    <form action="/ma-page-de-traitement" method="post">
+        <div>
+            <label for="name">Nom :</label>
+            <input type="text" id="name" name="user_name">
         </div>
-            <div class="col-12">
-                <div class="img">
-                    <a target="_blank" href="assets/image/pictures/restau1.jpg">
-                        <img src=assets/image/pictures/restau1.jpg alt="image avec vue sur la mer (sud)" class="restau1" >
-                    </a>
-                        <div class="desc">Terrasse orientation sud</div>
-                </div>
-            </div>
-
-            <div class="col-12">
-                <div class="img">
-                    <a target="_blank" href="assets/image/pictures/restau2.jpg">
-                        <img src=assets/image/pictures/restau2.jpg alt="image avec vue sur la mer(nord)" class="restau1" >
-                    </a>
-                        <div class="desc">Terrasse orientation nord</div>
-                </div>
-            </div>
-            
-            <div class="col-12">
-                <div class="img">
-                    <a target="_blank" href="assets/image/pictures/restau3.jpg">
-                        <img src=assets/image/pictures/restau3.jpg alt="image depuis la mer" class="restau1" >
-                    </a>
-                        <div class="desc">Restaurant vu depuis la mer</div>
-                </div>
-            </div>
-    </div>
-</section>
-            
-                    
-                        
-                    
-                        
-                
-
-        
+        <div>
+            <label for="mail">e-mail :</label>
+            <input type="email" id="mail" name="user_mail">
+        </div>
+        <div>
+            <label for="msg">Message :</label>
+            <textarea id="msg" name="user_message"></textarea>
+        </div>
+        <div class="button">
+            <button type="submit">Envoyer le message</button>
+        </div>
+    </form>
+    
+       
 
   
 

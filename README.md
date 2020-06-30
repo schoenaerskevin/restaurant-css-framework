@@ -1,6 +1,14 @@
 ## restaurant-css-framework
 #https://schoenaerskevin.github.io/restaurant-css-framework/.
 
+But du projets : Evaluation des connaisances de bootstrap,html et css en faisant un site "web complet" d'un restaurant
+Durée du projets "4 jours ouvrables" 
+
+
+
+
+
+
 
 
 
